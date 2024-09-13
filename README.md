@@ -1,6 +1,8 @@
 ## CUSTOMER-SEGMENTATION-ANALYSIS
 
 ### Behavioral, Demographic, Transactional and Geographical Segmentation
+![Image 2024-09-13](https://github.com/user-attachments/assets/bf11517b-8520-4933-a100-77a8785ea72c)
+
 #### Introduction
 ##### Customer Segmentation is an act of classifying customers into different categories based on shared characteristics. This act makes it easier for businesses to modify its product and/ or services in order to improve customer satisfaction and retention, ensure customer inclusion and optimize business relevance in the long –run. This project unveils the different categories of customers for an online retail store and I have successfully created different segments for the purpose of this analysis. 
 
@@ -51,10 +53,13 @@
 ##### 4.	The gender distribution is almost equal which makes it easier to include people of different sexuality in the business operation
 ##### 5.	Also, the analysis indicates that a large extent of the customers are “Artists” by profession and a notable number of them are “HealthCare” professionals. Makes it really easy to involve them in social activities.
 ##### 6.	Customers earn less than a hundred thousand dollars yearly and that gives us a little perspective on how much they are likely to spend on purchases.
+![GBD Analysis](https://github.com/user-attachments/assets/cbb1d858-f398-4efc-9510-d31946b7fb52)
+
 
 #### B.	Transactional Analysis
 ##### 1.	The “Consumer” customer type have a huge impact on the overall sales and profit percentage of this retail company and it has been that way over the years
 ##### 2.	The corporate customer type had a huge increment in sale in the recent year but in contrast, profit percentage dropped.
+![Transaction Analysis](https://github.com/user-attachments/assets/8e016980-aa41-4b5b-99aa-1fe27a36fa7d)
 
 
 #### Skills Applied
