@@ -6,6 +6,7 @@
 
 ##### Three datasets were consolidated solely for the purpose of this analysis and this analysis is tailored to the RFM methodology (although, there were limitations to this method which I intend to explain in the coming paragraphs). 
 
+
 ### Data Overview
 #### Data Sources
 ##### The data source for the datasets used are as follows; 
@@ -13,8 +14,10 @@
 ##### 2.	[Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
 ##### 3.	[Google Drive](https://docs.google.com/spreadsheets/d/1R-NjFCpGDAgtUKRaf-ZVXXbf-JdQb-JK/edit?gid=111825067#gid=111825067)
 
+
 #### Data Preparation Process
 ##### The datasets went through thorough cleaning process individually before and after they were integrated and I used this process to identify the metrics needed for my analysis while getting rid of the irrelevant / excessive metrics in the dataset. The dataset started out as 53 columns and 9,800 rows and later cut down to 28 columns and 2,240 rows as a result of cleaning, formatting and aggregation.
+
 
 #### Data Cleaning steps Taken
 ##### After identifying the required metrics, the datasets went through the following processes to ensure that the best quality is derived for further analysis.
@@ -27,6 +30,7 @@
 ##### 7.	Spell check
 ##### 8.	Removed irrelevant rows and columns – due to merging data from different sources, that left me with a lot of rows and columns that were not helpful to the analysis. 
 
+
 #### Segmentation Approach
 ##### The result of this analysis is visually represented in two interactive dashboards that contains 10 charts and 6 KPIs. These charts and KPIs are projections of four customer segmentation approaches; The Geographical, Behavioral, Transactional and Demographic approach.
 ##### The KPIs are a clear indication of the analysis objective. The KPIs have been selected in a way that keeps the spotlight on the essence of the analysis.
@@ -37,6 +41,7 @@
 ##### 4.	Gender Distribution
 ##### 5.	Segmentation by Profession
 ##### 6.	Segmentation By Income Range
+
 
 #### Analysis Results
 #### A.	Geographical, Behavioral and Demographic Analysis
@@ -50,6 +55,7 @@
 #### B.	Transactional Analysis
 ##### 1.	The “Consumer” customer type have a huge impact on the overall sales and profit percentage of this retail company and it has been that way over the years
 ##### 2.	The corporate customer type had a huge increment in sale in the recent year but in contrast, profit percentage dropped.
+
 
 #### Skills Applied
 ##### 1.	Data Research
