@@ -1,4 +1,4 @@
-## CUSTOMER-SEGMENTATION-ANALYSIS
+## Customer-Segmentation-Analysis
 
 ### Behavioral, Demographic, Transactional and Geographical Segmentation
 ![Image 2024-09-13](https://github.com/user-attachments/assets/bf11517b-8520-4933-a100-77a8785ea72c)
